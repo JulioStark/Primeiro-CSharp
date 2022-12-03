@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/Primeiro/main.csproj",
+      "projectUniqueName": "/home/runner/Calcular-media/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/Primeiro/main.csproj",
+      "projectPath": "/home/runner/Calcular-media/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/Primeiro/obj/",
+      "outputPath": "/home/runner/Calcular-media/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"
